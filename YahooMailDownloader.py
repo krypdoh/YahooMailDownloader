@@ -1,3 +1,5 @@
+"""
+===================================================================================
 Yahoo Mail Email Downloader
 -----------------------------------------------------------------------------------
 This script connects to a Yahoo Mail account via IMAP using SSL and an app password.
