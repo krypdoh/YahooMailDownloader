@@ -42,3 +42,5 @@ Author: Krypdoh
 Last updated: 2025.07.31
 
 USE AT YOUR OWN RISK!! PLEASE TEST IT ON SAMPLE FOLDER OR ACCOUNT BEFORE PROCEEDING! 
+
+<img width="1935" height="715" alt="image" src="https://github.com/user-attachments/assets/fd8f93d0-f890-4f92-88ea-2e887bd1720d" />
